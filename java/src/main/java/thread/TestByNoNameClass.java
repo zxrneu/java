@@ -1,4 +1,4 @@
-package thread.InitThread;
+package thread;
 
 public class TestByNoNameClass {
 	public static void main(String[] args) {

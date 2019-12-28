@@ -1,4 +1,4 @@
-package thread.InitThread;
+package thread;
 
 public class TestByRunable {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package thread.InitThread;
+package thread;
 
 public class SayOne extends Thread{
 	@Override
